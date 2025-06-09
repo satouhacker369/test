@@ -9,8 +9,8 @@ import logging
 import os
 
 # اطلاعات API تلگرام
-api_id = 24437425
-api_hash = '37086aa5703e9c39fb3cef6172d374af'
+api_id = 24437
+api_hash = '37086aa5703e9c39'
 
 client  = TelegramClient('session', api_id, api_hash)
 
